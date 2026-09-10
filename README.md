@@ -5,3 +5,6 @@ C++
 
 Java
 - Tiradadi: programma che genera un valore casuale da 1 a X, con X come valore intero qualsiasi.
+
+PHP
+- InterpreteAssembly: Interprete di commandi ASSEMBLY, supporta MOV, ADD, SUB e INT 21h
